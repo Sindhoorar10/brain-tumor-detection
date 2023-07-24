@@ -24,12 +24,12 @@ To train and validate the model, you need to prepare your dataset. Organize the 
 
 - data/
     - class1/
-      image1.jpg
-      image2.jpg
+      - image1.jpg
+      - image2.jpg
       ...
     - class2/
-      image1.jpg
-      image2.jpg
+      - image1.jpg
+      - image2.jpg
       ...
 
 
